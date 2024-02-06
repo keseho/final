@@ -24,7 +24,7 @@ function loadingAnimation() {
   });
 
   tl.to(".line h2", {
-    animationName: "anime",
+    animationName: "anime1",
     opacity: 1,
   });
 
